@@ -1,1 +1,1 @@
-{'init': 1, 'try': 2}
+{'face_template' : [[192.98138, 239.94708], [318.90277, 240.1936], [256.63416, 314.01935],[201.26117, 371.41043], [313.08905, 371.15118]],'order_2_idx' : [33, 87, 86, 52, 61],'flag_normalize_lip' : False,'flag_relative_motion': False,'flag_stitching': True,'driving_multiplier': 1.25}
